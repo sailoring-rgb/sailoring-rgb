@@ -1,5 +1,4 @@
 # yo reags
-### when halsey said "i think there's a flaw in my code", i felt that.
 just coding some stuff.. don't forget to check my projects if you're in need 🙃
 
 <div align="center">
