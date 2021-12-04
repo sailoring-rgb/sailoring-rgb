@@ -1,5 +1,5 @@
 # yo reags
-just coding some stuff.. don't forget to check my projects if you're in need 🙃
+just coding some stuff.. don't forget to check my projects if you're in need of some help 🙃
 
 <div align="center">
   <a href="https://github.com/AnaHenriques01">
