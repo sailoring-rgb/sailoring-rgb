@@ -26,7 +26,7 @@
 
 ###
 
-my projects   | my notes
+__my projects__   | __my notes__
 ------------- | -------------
 [2nd year](https://github.com/AnaHenriques01/LEI-2ANO) | NONE
 [3rd year](https://github.com/AnaHenriques01/LEI-3ANO) | [3rd year](https://github.com/AnaHenriques01/LEI-NOTES)
