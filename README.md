@@ -25,3 +25,8 @@
   ![Snake animation](https://github.com/AnaHenriques01/AnaHenriques01/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+## my projects:
+
+- [2nd year](https://github.com/AnaHenriques01/LEI-2ANO)
+- [3rd year](https://github.com/AnaHenriques01/LEI-3ANO)
