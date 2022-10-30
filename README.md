@@ -28,7 +28,7 @@
 
 ###
 
-| my projects  | my notes |
-:-------------: | :-------------: |
-| [2nd year](https://github.com/AnaHenriques01/LEI-2ANO) | NONE |
-| [3rd year](https://github.com/AnaHenriques01/LEI-3ANO) | [3rd year](https://github.com/AnaHenriques01/LEI-NOTES) |
+Bachelor's Degree:
+- [[PROJECTS] 2ND YEAR](https://github.com/AnaHenriques01/LEI-2ANO)
+- [[PROJECTS] 3RD YEAR](https://github.com/AnaHenriques01/LEI-3ANO)
+- [[NOTES] 3RD YEAR](https://github.com/AnaHenriques01/LEI-NOTES)
