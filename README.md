@@ -28,7 +28,7 @@
 
 ###
 
-Bachelor's Degree:
+### Bachelor's Degree:
 - `PROJECTS` [2ND YEAR](https://github.com/AnaHenriques01/LEI-2ANO)
 - `PROJECTS` [3RD YEAR](https://github.com/AnaHenriques01/LEI-3ANO)
 - `NOTES` [3RD YEAR](https://github.com/AnaHenriques01/LEI-NOTES)
