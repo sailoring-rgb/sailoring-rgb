@@ -1,4 +1,4 @@
-# yo reags
+# sailor reags
 
 📚 studying **informatics engineering** @ university of minho, portugal
 
