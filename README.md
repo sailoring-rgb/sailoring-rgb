@@ -29,6 +29,9 @@
 ###
 
 ### Bachelor's Degree:
-- `PROJECTS` [2ND YEAR](https://github.com/AnaHenriques01/LEI-2ANO)
-- `PROJECTS` [3RD YEAR](https://github.com/AnaHenriques01/LEI-3ANO)
+- [`PROJECTS`](https://github.com/AnaHenriques01/PROJECTS/tree/main/Licenciatura)
 - [`NOTES`](https://github.com/AnaHenriques01/NOTES/tree/main/Licenciatura)
+ 
+### Master's Degree:
+- [`PROJECTS`](https://github.com/AnaHenriques01/PROJECTS/tree/main/Mestrado)
+- [`NOTES`](https://github.com/AnaHenriques01/NOTES/tree/main/Mestrado)
