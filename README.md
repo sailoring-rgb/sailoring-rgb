@@ -2,6 +2,13 @@
 
 📚 studying **informatics engineering** @ university of minho, portugal
 
+###
+
+| ***My Bachelor Degree*** | ***My Master Degree*** |
+| --- | --- |
+| [`PROJECTS`](https://github.com/AnaHenriques01/PROJECTS/tree/main/Licenciatura) | [`PROJECTS`](https://github.com/AnaHenriques01/PROJECTS/tree/main/Mestrado) |
+| [`NOTES`](https://github.com/AnaHenriques01/NOTES/tree/main/Licenciatura) | [`NOTES`](https://github.com/AnaHenriques01/NOTES/tree/main/Mestrado) |
+
 <div align="center">
   <a href="https://github.com/AnaHenriques01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaHenriques01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -25,13 +32,3 @@
   ![Snake animation](https://github.com/AnaHenriques01/AnaHenriques01/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-###
-
-### Bachelor's Degree:
-- [`PROJECTS`](https://github.com/AnaHenriques01/PROJECTS/tree/main/Licenciatura)
-- [`NOTES`](https://github.com/AnaHenriques01/NOTES/tree/main/Licenciatura)
- 
-### Master's Degree:
-- [`PROJECTS`](https://github.com/AnaHenriques01/PROJECTS/tree/main/Mestrado)
-- [`NOTES`](https://github.com/AnaHenriques01/NOTES/tree/main/Mestrado)
