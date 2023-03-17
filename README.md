@@ -6,8 +6,8 @@
 
 | ***My Bachelor Degree*** | ***My Master Degree*** |
 | --- | --- |
-| [`PROJECTS`](https://github.com/AnaHenriques01/PROJECTS/tree/main/Licenciatura) | [`PROJECTS`](https://github.com/AnaHenriques01/PROJECTS/tree/main/Mestrado) |
-| [`NOTES`](https://github.com/AnaHenriques01/NOTES/tree/main/Licenciatura) | [`NOTES`](https://github.com/AnaHenriques01/NOTES/tree/main/Mestrado) |
+| [`PROJECTS`](https://github.com/sailoring-rgb/PROJECTS/tree/main/Licenciatura) | [`PROJECTS`](https://github.com/sailoring-rgb/PROJECTS/tree/main/Mestrado) |
+| [`NOTES`](https://github.com/sailoring-rgb/NOTES/tree/main/Licenciatura) | [`NOTES`](https://github.com/sailoring-rgb/NOTES/tree/main/Mestrado) |
 
 
 <div align="right" style="display: inline_block">
@@ -19,9 +19,9 @@
 
 <br/>
 <div align="center">
-  <a href="https://github.com/AnaHenriques01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaHenriques01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaHenriques01&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/sailoring-rgb">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sailoring-rgb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailoring-rgb&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <br/>
@@ -34,6 +34,6 @@
   
 <div> 
     
-  ![Snake animation](https://github.com/AnaHenriques01/AnaHenriques01/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/sailoring-rgb/sailoring-rgb/blob/output/github-contribution-grid-snake.svg)
  
 </div>
