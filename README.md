@@ -24,7 +24,7 @@
 <div align="center">
   <a href="https://github.com/sailoring-rgb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sailoring-rgb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailoring-rgb&hide=Roff,jupyter%20notebook&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailoring-rgb&hide=Roff,jupyter%20notebook,C%2B%2B&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <br/>
