@@ -1,32 +1,30 @@
 # sailor reags
 
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <p>📚 studying <b>informatics engineering</b> @ university of minho, portugal</p>
-    <table>
-      <thead>
-        <tr>
-          <th>My Bachelor Degree</th>
-          <th>My Master Degree</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="https://github.com/sailoring-rgb/PROJECTS/tree/main/Licenciatura">PROJECTS</a></td>
-          <td><a href="https://github.com/sailoring-rgb/PROJECTS/tree/main/Mestrado">PROJECTS</a></td>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/sailoring-rgb/NOTES/tree/main/Licenciatura">NOTES</a></td>
-          <td><a href="https://github.com/sailoring-rgb/NOTES/tree/main/Mestrado">NOTES</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-  <div style="flex: 2;">
-    <div>
-      <img src="your-gif-url-here" alt="your-gif-description-here" width="400" height="400">
-    </div>
-  </div>
+<div style="border: none">
+  <table style="border: none">
+    <tr style="border: none">
+    <th style="border: none;text-align:left;padding-left:10px;" align="left">
+        <img src="https://user-images.githubusercontent.com/62114404/229944605-c6bbf0fa-93f9-4a23-967b-e90a245f0abb.gif" width="300" height="300">
+    </th>
+      <th style="border: none" align="left" width="1000">
+        <p>📚 studying <b>informatics engineering</b> @ university of minho, portugal</p>
+        <table>
+            <tr>
+              <th>My Bachelor Degree</th>
+              <th>My Master Degree</th>
+            </tr>
+            <tr>
+              <td><a href="https://github.com/sailoring-rgb/PROJECTS/tree/main/Licenciatura">PROJECTS</a></td>
+              <td><a href="https://github.com/sailoring-rgb/PROJECTS/tree/main/Mestrado">PROJECTS</a></td>
+            </tr>
+            <tr>
+              <td><a href="https://github.com/sailoring-rgb/NOTES/tree/main/Licenciatura">NOTES</a></td>
+              <td><a href="https://github.com/sailoring-rgb/NOTES/tree/main/Mestrado">NOTES</a></td>
+            </tr>
+        </table>
+      </th>
+    </tr>
+  </table>
 </div>
 
 <div align="right" style="display: inline_block">
