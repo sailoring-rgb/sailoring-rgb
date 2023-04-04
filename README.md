@@ -1,14 +1,33 @@
 # sailor reags
 
-📚 studying **informatics engineering** @ university of minho, portugal
-
-###
-
-| ***My Bachelor Degree*** | ***My Master Degree*** |
-| --- | --- |
-| [`PROJECTS`](https://github.com/sailoring-rgb/PROJECTS/tree/main/Licenciatura) | [`PROJECTS`](https://github.com/sailoring-rgb/PROJECTS/tree/main/Mestrado) |
-| [`NOTES`](https://github.com/sailoring-rgb/NOTES/tree/main/Licenciatura) | [`NOTES`](https://github.com/sailoring-rgb/NOTES/tree/main/Mestrado) |
-
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <p>📚 studying <b>informatics engineering</b> @ university of minho, portugal</p>
+    <table>
+      <thead>
+        <tr>
+          <th>My Bachelor Degree</th>
+          <th>My Master Degree</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><a href="https://github.com/sailoring-rgb/PROJECTS/tree/main/Licenciatura">PROJECTS</a></td>
+          <td><a href="https://github.com/sailoring-rgb/PROJECTS/tree/main/Mestrado">PROJECTS</a></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/sailoring-rgb/NOTES/tree/main/Licenciatura">NOTES</a></td>
+          <td><a href="https://github.com/sailoring-rgb/NOTES/tree/main/Mestrado">NOTES</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div style="flex: 2;">
+    <div>
+      <img src="your-gif-url-here" alt="your-gif-description-here" width="400" height="400">
+    </div>
+  </div>
+</div>
 
 <div align="right" style="display: inline_block">
   <img align="center" alt="Ana-AE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
