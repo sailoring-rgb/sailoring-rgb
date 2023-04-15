@@ -1,0 +1,11 @@
+table {
+  border-collapse: collapse;
+}
+
+table th, table td {
+  border: none !important;
+}
+
+table th:first-child {
+  color: #E4BF7A;
+}
