@@ -1,12 +1,12 @@
 # sailor reags
 
 <div style="border: none">
-  <table style="border: none">
-    <tr style="border: none">
-    <th style="border: none;text-align:left;padding-left:10px;" align="left">
+  <table style="border-collapse: collapse;">
+    <tr style="border: none !important;padding: 5px;">
+    <th style="border: none !important;padding: 5px;text-align:left;padding-left:10px;" align="left">
         <img src="https://user-images.githubusercontent.com/62114404/229944605-c6bbf0fa-93f9-4a23-967b-e90a245f0abb.gif" width="300" height="300">
     </th>
-      <th style="border: none" align="left" width="1000">
+      <th style="border: none !important;padding: 5px;" align="left" width="1000">
         <p>📚 studying <b>informatics engineering</b> @ university of minho, portugal</p>
         <table>
             <tr>
@@ -40,8 +40,8 @@
 <br/>
 <div align="center">
   <a href="https://github.com/sailoring-rgb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sailoring-rgb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailoring-rgb&hide=Roff,jupyter%20notebook,C%2B%2B&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sailoring-rgb&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailoring-rgb&hide=Roff,jupyter%20notebook,C%2B%2B&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 <br/>
