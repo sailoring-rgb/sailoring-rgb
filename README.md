@@ -1,4 +1,4 @@
-# sailor reags
+# Ana Henriques
 
 <div style="border: none">
   <table style="border-collapse: collapse;">
@@ -7,7 +7,11 @@
         <img src="https://user-images.githubusercontent.com/62114404/229944605-c6bbf0fa-93f9-4a23-967b-e90a245f0abb.gif" width="300" height="300">
     </th>
       <th style="border: none !important;padding: 5px;" align="left" width="1000">
-        <p>📚 studying <b>informatics engineering</b> @ university of minho, portugal</p>
+        <p>👩🏻‍💻 &nbsp bachelor's degree in informatics engineering</p>
+        <p>📚 &nbsp master student in <b>informatics engineering</b> @ UMinho</p>
+        <!--p>🌙 &nbsp sailor moon enthusiast</p-->
+        <p>🇵🇹 &nbsp born and raised in portugal</p>
+        &nbsp&nbsp&nbsp
         <table>
             <tr>
               <th>My Bachelor Degree</th>
