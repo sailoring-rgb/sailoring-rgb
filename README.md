@@ -10,7 +10,7 @@
         <p>👩🏻‍💻 &nbsp bachelor's degree in informatics engineering</p>
         <p>📚 &nbsp master student in <b>informatics engineering</b> @ UMinho</p>
         <!--p>🌙 &nbsp sailor moon enthusiast</p-->
-        <p>🇵🇹 &nbsp born and raised in portugal</p>
+        <p>🇵🇹 &nbsp born and raised in braga, portugal</p>
         &nbsp&nbsp&nbsp
         <table>
             <tr>
