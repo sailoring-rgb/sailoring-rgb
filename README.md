@@ -88,6 +88,8 @@ You can explore the rest of my projects [**here**](https://github.com/sailoring-
   <img align="center" alt="Ana-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Ana-Haskell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
   <img align="center" alt="Ana-Prolog" height="32" width="32" src="https://user-images.githubusercontent.com/62114404/226121165-dfa377e1-5b2c-4869-8a59-2531f6d369e9.png"/>
+  <img align="center" alt="Ana-SQL" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+  <img align="center" alt="Ana-Photoshop" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 </div> 
 
 <br/>
