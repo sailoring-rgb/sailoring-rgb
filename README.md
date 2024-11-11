@@ -31,6 +31,10 @@ Here are some of the projects from my Master's degree:
 - [Machine Learning](https://github.com/sailoring-rgb/projetoDAA)
 - [RASBet (Website)](https://github.com/sailoring-rgb/projetoRAS)
 
+My master's dissertation project:
+
+- [VRMTraining](https://github.com/sailoring-rgb/VRMTraining)
+
 You can explore the rest of my projects [**here**](https://github.com/sailoring-rgb/PROJECTS).
 
 <!--div style="border: none">
