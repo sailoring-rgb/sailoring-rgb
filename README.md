@@ -1,7 +1,7 @@
 ## Hi there 👋
 #### Olá · 你好 · こんにちは · Halo · Bonjour · مرحبًا · 안녕하세요 · Ciao · สวัสดี · Merhaba · नमस्ते · Привет · Guten tag
 
-I'm Ana Henriques from Braga, Portugal 🇵🇹 and I hold a Master’s degree in <b>Informatics Engineering</b> from <b>University of Minho</b>, in Braga.
+I'm Ana Henriques from Portugal 🇵🇹 and I hold a Master’s degree in <b>Informatics Engineering</b> at the <b>University of Minho</b>, in Braga.
 
 ### Master's degree in Informatics Engineering
 
